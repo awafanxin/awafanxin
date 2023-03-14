@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://awafanxin.github.io</id>
+    <title>繁星</title>
+    <updated>2023-03-14T11:36:00.870Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://awafanxin.github.io"/>
+    <link rel="self" href="https://awafanxin.github.io/atom.xml"/>
+    <subtitle>服务器所有的更新都在这啦</subtitle>
+    <logo>https://awafanxin.github.io/images/avatar.png</logo>
+    <icon>https://awafanxin.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 繁星</rights>
+    <entry>
+        <title type="html"><![CDATA[Hail]]></title>
+        <id>https://awafanxin.github.io/post/hail/</id>
+        <link href="https://awafanxin.github.io/post/hail/">
+        </link>
+        <updated>2023-03-14T11:34:59.000Z</updated>
+        <content type="html"><![CDATA[<p>本人不知道改些什么</p>
+]]></content>
+    </entry>
+</feed>
